@@ -1,0 +1,8 @@
+numpy==1.26.4
+pydicom==2.4.4
+Pillow==10.4.0
+scipy==1.13.1
+tifffile==2024.8.30
+matplotlib==3.9.2
+vtk==9.3.1
+pyvista==0.44.1
